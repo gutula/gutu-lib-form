@@ -35,6 +35,7 @@ Provides reusable form-state and schema-oriented helpers that higher-level admin
 | Package ID | `form` |
 | Display Name | Form |
 | Import Name | `@platform/form` |
+| Canonical Namespace Target | `@gutu/form` |
 | Version | `0.1.0` |
 | UI Surface | Headless typed exports |
 | Consumption Model | Imports + typed helpers |
@@ -48,6 +49,7 @@ Provides reusable form-state and schema-oriented helpers that higher-level admin
 | Dev Dependencies | None |
 | React Runtime | No |
 | Workspace Scoped | Yes |
+| Legacy Compatibility IDs | `@platform/form` |
 
 ### Dependency interpretation
 
